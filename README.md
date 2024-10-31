@@ -29,7 +29,7 @@
 
 Shuddhify is ideal for chat applications, forums, and any digital space where respectful communication is crucial. By enforcing a respectful language policy and issuing real-time feedback, Shuddhify fosters a welcoming and positive environment, empowering users to engage responsibly online.
 
-![Use Case Illustration](https://via.placeholder.com/600x200?text=Shuddhify+Use+Case) <!-- Replace with an actual image link -->
+![Use Case Illustration](https://drive.google.com/file/d/1O7c2RyTduBKP0yv2_cOtbG_kvkGZ8Q3R/view) <!-- Replace with an actual image link -->
 
 ---
 
@@ -81,14 +81,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Shuddhify aims to create a more respectful online environment. By integrating advanced language processing technology with user-centric design, we strive to promote healthy digital communication.
 
-![Respectful Communication](https://via.placeholder.com/600x200?text=Respectful+Communication) <!-- Replace with an actual image link -->
-```
-
-### Key Features of This README:
-- **Colorful Emojis**: To make the document more engaging.
-- **Tables**: For neatly organizing key features.
-- **Sections**: Clear demarcation of sections using horizontal rules (`---`).
-- **Images**: Placeholder images are included to demonstrate where visual elements could be added. You can replace these with actual images that are relevant to your project.
-- **Summary and Final Note**: A concluding section to reinforce the purpose of the project.
-
-Feel free to modify the content, especially the image links and placeholders, to suit your project's needs! Let me know if you need any further adjustments or additions!
+![Respectful Communication](https://drive.google.com/file/d/1O7c2RyTduBKP0yv2_cOtbG_kvkGZ8Q3R/view) <!-- Replace with an actual image link -->
